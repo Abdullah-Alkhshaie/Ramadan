@@ -20,8 +20,8 @@ const arabLeagueCountries = [
   { countryCode: "SA", city: "الرياض" }, // Riyadh (ar-Riyāḍ)
   { countryCode: "SO", city: "مقديشو" }, // Mogadishu (Muqdisho)
   { countryCode: "SD", city: "الخرطوم" }, // Khartoum (al-Khartūm)
-  { countryCode: "SY", city: "دمشق" }, // Damascus (Dimashq)
-  { countryCode: "TN", city: "تونس" }, // Tunis (Tūnis)
+  //   { countryCode: "SY", city: "دمشق" }, // Damascus (Dimashq)
+  { countryCode: "TN", city: "تونس" }, // Tun   is (Tūnis)
   { countryCode: "AE", city: "أبوظبي" }, // Abu Dhabi (Abū Ḍhabī)
   { countryCode: "YE", city: "صنعاء" }, // Sanaa (Ṣanʿāʾ)
 ];
