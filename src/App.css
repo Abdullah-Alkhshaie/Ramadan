@@ -1,0 +1,20 @@
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background-color: transparent;
+}
+::-webkit-scrollbar-thumb {
+  /* background-color: rgb(236, 18, 18); */
+  background-color: rgb(255, 255, 255);
+  transition: 3s;
+}
+
+@import url("https://fonts.googleapis.com/css2?family=Lalezar&display=swap");
+
+body {
+  font-family: "Lalezar", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
